@@ -1,0 +1,15 @@
+h1{
+    background-color: blanchedalmond;
+    color: dodgerblue; 
+    border: 20px dotted-black;
+}
+
+p{
+    color: rgb(16, 17, 17);
+    border: 5px dotted black;
+  padding: 10px;
+  background: lightblue;
+  background-clip: content-box;
+}
+
+
